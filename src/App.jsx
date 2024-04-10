@@ -1,13 +1,6 @@
 import React from 'react';
-import GeneralRoutes from './routes';
-import GlobalStyle from './styles/global';
 
 function App() {
-  return (
-    <>
-      <GeneralRoutes />;
-      <GlobalStyle />
-    </>
-  );
+  return <h1>Hello redux</h1>
 }
 export default App;
