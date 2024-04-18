@@ -21,7 +21,7 @@ body, input, button{
 }
 
 #root {
-  max-width: 1020PX;
+  max-width: 1200px;
   margin: 0;
   padding: 0 20px 50px;
 }
