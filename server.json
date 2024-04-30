@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Macarons deliciosos",
+      "price": 5.5,
+      "image": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+    },
+    {
+      "id": 2,
+      "title": "Bolo de cenoura da vovó",
+      "price": 15.0,
+      "image": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-cenoura-sem-gluten-ghqgbkkh.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Brownie bem chocolatudo",
+      "price": 7.0,
+      "image": "https://static.itdg.com.br/images/360-240/c1226272352626b2ed1b0a103bf6443f/shutterstock-1938293728.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cheesecake de frutas vermelhas",
+      "price": 25.0,
+      "image": "https://bakeandcakegourmet.com.br/uploads/site/receitas/cheesecake-de-frutas-vermelhas-wvd7kw62.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pudim super cremoso",
+      "price": 10.0,
+      "image": "https://assets.unileversolutions.com/recipes-v2/236947.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tiramisu perfeito",
+      "price": 20.0,
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2022/12/19/67791397-tiramisu-diferentes-versoes.jpg"
+    }
+  ]
+}
