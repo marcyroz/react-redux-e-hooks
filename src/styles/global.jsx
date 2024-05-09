@@ -1,8 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 import background from '../assets/images/background.svg';
+import reacthel from 'react'
 
 export default createGlobalStyle`
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
   margin: 0;
@@ -14,6 +14,7 @@ export default createGlobalStyle`
 body{
 background: #191920 url(${background}) no-repeat center top;
 -webkit-font-smoothing: antialiased;
+font-family: 'Roboto';
 }
 
 body, input, button{
