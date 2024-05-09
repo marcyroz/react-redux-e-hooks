@@ -1,6 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 import background from '../assets/images/background.svg';
-import reacthel from 'react'
 
 export default createGlobalStyle`
 
